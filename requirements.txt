@@ -1,0 +1,35 @@
+# Data handling
+pandas
+numpy
+
+# Machine learning & embeddings
+torch
+transformers
+sentence-transformers
+faiss-cpu   # or faiss-gpu if you have GPU support
+scikit-learn
+tf-keras
+
+# Hugging Face Hub & Inference
+huggingface-hub
+tiktoken
+
+# Kaggle API
+kaggle
+
+# OpenAI
+openai
+
+# Web scraping & browser automation
+beautifulsoup4
+selenium
+webdriver-manager
+geckodriver_autoinstaller
+
+# Utilities
+bs4
+python-dotenv
+py7zr
+nbformat
+nbconvert
+
